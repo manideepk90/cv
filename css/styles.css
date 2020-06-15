@@ -130,7 +130,7 @@ hr{
     cursor: pointer;
     text-align: center;
 }
-    
+
 .btn:hover {
     background: #CA7DF5;
     background-image: -webkit-linear-gradient(top, #CA7DF5, #2B44CF);
